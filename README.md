@@ -1,12 +1,16 @@
-# CINE-LA
+# CINELA
+ CINELA  es una  aplicación web dirigida  a los amantes  del cine, en ella podran filtrar informacion complementaria sobre el desarrolo de  una pelicula, como el de director, actores, entre otros.
 
-## Hackathon del Final del Common Core: 2017-II
+![Foodmap-preview](https://github.com/mirelatv/Portafolio/blob/master/assets/images/cinela.png)
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
+
+
+
+
+## Mas Informacion de su desaroollo -Hackathon del Final del Common Core: 2017-II
 
 Este producto es parte de la finalización del **Common Core** de **Laboratoria**.
-
-### ¿De qué se trata nuestro producto?
-
-Cine-la es una plataforma web que brinda una informaciond de peliculas y un sector para los fans de todo tipo.
 
 ### ¿Para qué sirve?
 

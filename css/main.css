@@ -1,6 +1,8 @@
 /*CLASES REUTILIZABLES*/
 .logo-cinela {
-  width: 50%;
+  width: 38%;
+  margin-left: 4%;
+  margin-top: 1%;
 }
 
 /*HEADER*/
@@ -11,12 +13,13 @@
 }
 
 .nav-index {
-  height: 130px;
+  height: 70px;
 }
 
 .nav-wrapper ul li {
   display: inline-block;
-  padding: 0px 35px;
+  padding: 0px;
+ 
 }
 
 .nav-wrapper {
@@ -24,16 +27,17 @@
 }
 
 nav ul a {
-  font-size: 2rem !important;
+  font-size: 1.5rem !important;
+  padding: 3%;
 }
 
 nav ul a:hover {
   color: #80cbc4;    
-  -moz-transform: scale(2.2);
-  -webkit-transform: scale(2.2);
-  -o-transform: scale(2.2);
-  -ms-transform: scale(2.2);
-  transform: scale(2.2)
+  -moz-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1)
 }
 
 
@@ -51,6 +55,9 @@ nav ul a:hover {
 .title-top {
   -webkit-box-sizing: content-box;
   -moz-box-sizing: content-box;
+ 
+ 
+ 
   box-sizing: content-box;
   border: none;
   color: #212121;
@@ -72,7 +79,7 @@ nav ul a:hover {
   box-sizing: content-box;
   border: none;
   font: normal 76px/1 "Akronim", Helvetica, sans-serif;
-  color: #212121;
+  color: #70dbe9;
   text-align: center;
   -o-text-overflow: ellipsis;
   text-overflow: ellipsis;
@@ -86,6 +93,14 @@ nav ul a:hover {
   position: relative;
   margin-top:-30%;
 }
+.search{
+  color: #212121!important;
+}
+#searchMovie{
+  color: #212121;
+
+}
+
 
 .items {
   width: 500px;
