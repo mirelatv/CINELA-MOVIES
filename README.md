@@ -1,12 +1,12 @@
 # CINELA
- CINELA  es una  aplicación web dirigida  a los amantes  del cine, en ella podran filtrar informacion complementaria sobre el desarrolo de  una pelicula, como el de director, actores, entre otros.
 
-![Foodmap-preview](https://github.com/mirelatv/Portafolio/blob/master/assets/images/cinela.png)
+CINELA  es una  aplicación web dirigida  a los amantes  del cine, en ella podran filtrar informacion complementaria sobre el desarrolo de  una pelicula, como el de director, actores, entre otros.
+
+![Cinela-preview](https://user-images.githubusercontent.com/32286248/38522800-4e8104ce-3c0f-11e8-8a62-fcc7afc3a04c.png)
+
 ## Desarrollado para 
+
 [Laboratoria](http://laboratoria.la)
-
-
-
 
 ## Mas Informacion de su desaroollo -Hackathon del Final del Common Core: 2017-II
 
